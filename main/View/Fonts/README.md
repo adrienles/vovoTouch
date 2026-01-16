@@ -8,5 +8,6 @@ This project utilizes [Apple's SF Compact Rounded font](https://devimages-cdn.ap
 - sf_comp_round_semibold_24.c
 - sf_comp_round_bold_16.c
 - sf_comp_round_bold_24.c
+- sf_comp_round_bold_48.c (+ and -)
 > Note: This is the character set I used when generating mine: QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm`1234567890-=[]\;',./~!@#$%^&*()_+{}|:"<>?èéêëÈÉÊËùúûÙÚÛòóôÒÓÔàáâÀÁÂçÇ
 4. Add the font files to this directory.
