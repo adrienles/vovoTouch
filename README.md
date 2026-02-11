@@ -15,6 +15,7 @@ Compared to the original remote's dense button grid, vovoTouch's intuitive UI di
 - [x] General touch button function assignment
 - [x] Language localization
 - [ ] (IN PROGRESS) User profiles
+- [ ] Architecture refactoring : Styling should be done in a theme to prevent bloating component classes unnecessarily
 - [ ] OTA updates
 - [ ] Weather report
 - [ ] User theme colors
